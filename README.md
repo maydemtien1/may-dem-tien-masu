@@ -12,7 +12,7 @@ Trang bị máy đếm tiền MASU cho kế toán, thu ngân, giao dịch viên 
 
 Thành lập từ năm 2014, công ty Hoàng Quân là đơn vị nhập khẩu và phân phối độc quyền các dòng máy đếm tiền MASU chính hãng, đa tính năng cao cấp như tính tổng, chia mẻ tách tờ, cộng dồn, tự động nhận biết mệnh giá với hệ thống mắt thần UV, IR cao cấp, tốc độ đếm mạnh mẽ lên đến 1220 tờ/phút giúp rút ngắn thời gian kiểm đếm tiền Polymer, vé số, ngoại tệ USD, EURO.
 
-[**Máy đếm tiền**](https://masu.com.vn) phát hiện tiền giả thương hiệu MASU trang bị hệ thống mắt thần IR hồng ngoại, LED UV cực tím giúp dễ dàng định vị hình chìm, hình phát quang, hình nổi trên các tờ tiền mệnh giá từ 10.000 đ đến 500.000 đ. Tích hợp thêm các công nghệ 3D Scan, đối chiếu hình ảnh, Dual Cis đỉnh cao giúp máy đếm tiền MASU có khả năng phát hiện tiền giả ngay từ tờ đầu tiên với độ chính xác tuyệt đối.
+[**Máy đếm tiền chính hãng**](https://masu.com.vn) phát hiện tiền giả thương hiệu MASU trang bị hệ thống mắt thần IR hồng ngoại, LED UV cực tím giúp dễ dàng định vị hình chìm, hình phát quang, hình nổi trên các tờ tiền mệnh giá từ 10.000 đ đến 500.000 đ. Tích hợp thêm các công nghệ 3D Scan, đối chiếu hình ảnh, Dual Cis đỉnh cao giúp máy đếm tiền MASU có khả năng phát hiện tiền giả ngay từ tờ đầu tiên với độ chính xác tuyệt đối.
 
 ![Máy đếm tiền MASU 999](https://github.com/maydemtien1/may-dem-tien-masu/assets/146692188/f2683345-7170-402e-bfe7-928df63c690d)
 
@@ -25,10 +25,10 @@ Với [7+] năm hoạt động trong lĩnh vực phân phối vật tư ngân h�
 Các dòng máy đếm tiền cao cấp tại công ty Hoàng Quân được cam kết chính hãng, mới 100% với mức giá tốt nhất thị trường chỉ từ 3 triệu đồng đến hơn 8 triệu với đầy đủ tính năng tính tổng, chia mẻ, cộng dồn, nhận biết mệnh giá tiền polymer VNĐ từ 10.000 đến 500.000 đ. Đặc biệt là chức năng phát hiện tiền giả, siêu giả có độ chính xác tuyệt đối được Hoàng Quân kiểm định.
 
 - Máy đếm tiền MASU giá từ 3.650.000 đ các model đặc biệt MASU 888, MASU 666, MASU 999, MASU 8899, MASU 2019, MASU 5688.
-- [**Máy đếm tiền Xiudun**](https://masu.com.vn/may-dem-tien-xiudun/) giá chỉ 2.250.000 đ những model cao cấp Xiudun 5118, Xiudun 9500, Xiudun 6688W, Xiudun 8000, Xiudun 2012W, Xiudun 2250C
+- [**Máy đếm tiền Xiudun cao cấp**](https://masu.com.vn/may-dem-tien-xiudun/) giá chỉ 2.250.000 đ những model cao cấp Xiudun 5118, Xiudun 9500, Xiudun 6688W, Xiudun 8000, Xiudun 2012W, Xiudun 2250C
 - Máy đếm tiền Silicon giá rẻ từ 3.300.000 VNĐ những model như Silicon MC-8800, Silicon MC-2200, Silicon MC 2550, Silicon MC-2700, Silicon MC-8600.
 - Máy đếm tiền Oudis giá rẻ dưới 4 triệu đồng những model Oudis 9900A, Oudis 8899A, Oudis 2019A, Oudis 3200C, Oudis 9699A, Oudis 2990, Oudis 3900C.
-- [**Máy đếm tiền Xinda**](https://masu.com.vn/may-dem-tien-xinda/) bán chạy giá 2.800.000 đ các dòng máy Xinda Super BC 31F, Xinda Super BC 35, Xinda 2166F, Xinda 2165F, Xinda Super BC 28
+- [**Máy đếm tiền Xinda giá rẻ**](https://masu.com.vn/may-dem-tien-xinda/) bán chạy giá 2.800.000 đ các dòng máy Xinda Super BC 31F, Xinda Super BC 35, Xinda 2166F, Xinda 2165F, Xinda Super BC 28
 - Máy đếm tiền Balion cao cấp giá trên 3.000.000 VNĐ Balion NH-314S, Balion NH-406S, Balion NH-607S, Balion NH-207, Balion NH-407S
 - Zheyue ZY-5688, Zheyue ZY-2023, Zheyue ZY-2022 giá chỉ từ 4.000.000 đ.
 
@@ -71,18 +71,6 @@ Hotline: 028 73 00 99 73 - 0896 449 886
 Website: https://masu.com.vn
 
 #maydemtienmasu #maydemtiennhatban
-
-https://masu.com.vn/san-pham/may-dem-tien-masu-888.htm
-
-https://masu.com.vn/san-pham/may-dem-tien-masu-999.htm
-
-https://masu.com.vn/san-pham/may-dem-tien-masu-666.htm
-
-https://masu.com.vn/san-pham/may-dem-tien-masu-5688.htm
-
-https://masu.com.vn/tin-tuc/may-dem-tien-phat-hien-tien-gia-817.html
-
-https://masu.com.vn/tin-tuc/bang-gia-may-dem-tien-moi-nhat-815.html
 
 ![Máy đếm tiền MASU 2019](https://github.com/maydemtien1/may-dem-tien-masu/assets/146692188/02f9d5f6-1934-416c-bd25-e7c09298476e)
 
