@@ -10,19 +10,19 @@ Trang bị [**máy đếm tiền chính hãng**](https://masu.com.vn) cho kế t
 
 ## Mua máy đếm tiền chính hãng nhập khẩu tại Hoàng Quân
 
-Thành lập từ năm 2014, công ty Hoàng Quân là đơn vị nhập khẩu và phân phối độc quyền các dòng máy đếm tiền Hoàng Quân chính hãng, đa tính năng cao cấp như tính tổng, chia mẻ tách tờ, cộng dồn, tự động nhận biết mệnh giá với hệ thống mắt thần UV, IR cao cấp, tốc độ đếm mạnh mẽ lên đến 1220 tờ/phút giúp rút ngắn thời gian kiểm đếm tiền Polymer, vé số, ngoại tệ USD, EURO.
+Thành lập từ năm 2014, công ty Hoàng Quân là đơn vị nhập khẩu và phân phối độc quyền các dòng **máy đếm tiền Hoàng Quân** chính hãng, đa tính năng cao cấp như tính tổng, chia mẻ tách tờ, cộng dồn, tự động nhận biết mệnh giá với hệ thống mắt thần UV, IR cao cấp, tốc độ đếm mạnh mẽ lên đến 1220 tờ/phút giúp rút ngắn thời gian kiểm đếm tiền Polymer, vé số, ngoại tệ USD, EURO.
 
-Máy đếm tiền chính hãng Hoàng Quân phát hiện tiền giả trang bị hệ thống mắt thần IR hồng ngoại, LED UV cực tím giúp dễ dàng định vị hình chìm, hình phát quang, hình nổi trên các tờ tiền mệnh giá từ 10.000 đ đến 500.000 đ. Tích hợp thêm các công nghệ 3D Scan, đối chiếu hình ảnh, Dual Cis đỉnh cao giúp máy đếm tiền Hoàng Quân có khả năng phát hiện tiền giả ngay từ tờ đầu tiên với độ chính xác tuyệt đối.
+**Máy đếm tiền chính hãng Hoàng Quân** phát hiện tiền giả trang bị hệ thống mắt thần IR hồng ngoại, LED UV cực tím giúp dễ dàng định vị hình chìm, hình phát quang, hình nổi trên các tờ tiền mệnh giá từ 10.000 đ đến 500.000 đ. Tích hợp thêm các công nghệ 3D Scan, đối chiếu hình ảnh, Dual Cis đỉnh cao giúp máy đếm tiền Hoàng Quân có khả năng phát hiện tiền giả ngay từ tờ đầu tiên với độ chính xác tuyệt đối.
 
 ![máy đếm tiền xinda cao cấp](https://github.com/maydemtien1/may-dem-tien-masu/assets/146692188/69f1b5b3-8f42-47fd-8ba3-070c554f7bd1)
 
-Các model máy đếm tiền nổi bật được nhiều ngân hàng tại Việt Nam ưa chuộng sử dụng có thể kể đến như: VPBank, Agribank, Sacombank, Techcombank, Vietcombank, BIDV, SHB, VietinBank, MBBANK, ACB, HDBank, VIB, OCB, Eximbank. Tất cả đều cam kết chính hãng nguyên kiện nguyên đai, bảo hành đến 24 tháng tại các văn phòng của Hoàng Quân trên toàn quốc.
+Các model **máy đếm tiền Hoàng Quân** nổi bật được nhiều ngân hàng tại Việt Nam ưa chuộng sử dụng có thể kể đến như: VPBank, Agribank, Sacombank, Techcombank, Vietcombank, BIDV, SHB, VietinBank, MBBANK, ACB, HDBank, VIB, OCB, Eximbank. Tất cả đều cam kết chính hãng nguyên kiện nguyên đai, bảo hành đến 24 tháng tại các văn phòng của Hoàng Quân trên toàn quốc.
 
 Với [7+] năm hoạt động trong lĩnh vực phân phối vật tư ngân hàng, đặc biệt là máy đếm tiền, công ty Hoàng Quân thấu hiểu nhu cầu bảo hành hậu đãi chuyên nghiệp của khách hàng, Vì vậy các sản phẩm máy đếm tiền Masu đều sẽ được cam kết bảo hành 12-24 tháng toàn quốc tại các văn phòng kỹ thuật TpHCM, Hà Nội, Đà Nẵng, Cần Thơ, Đắk Lắk. Chúng tôi cũng cung cấp dịch vụ nâng cấp, bảo trì và sửa chữa máy đếm tiền Masu tận nơi cho khách hàng có nhu cầu.
 
 ## Bảng giá máy đếm tiền cao cấp giá tốt nhất tại Hoàng Quân
 
-Các dòng máy đếm tiền cao cấp tại công ty Hoàng Quân được cam kết chính hãng, mới 100% với mức giá tốt nhất thị trường chỉ từ 3 triệu đồng đến hơn 8 triệu với đầy đủ tính năng tính tổng, chia mẻ, cộng dồn, nhận biết mệnh giá tiền polymer VNĐ từ 10.000 đến 500.000 đ. Đặc biệt là chức năng phát hiện tiền giả, siêu giả có độ chính xác tuyệt đối được Hoàng Quân kiểm định.
+Các dòng **máy đếm tiền cao cấp tại công ty Hoàng Quân** được cam kết chính hãng, mới 100% với mức giá tốt nhất thị trường chỉ từ 3 triệu đồng đến hơn 8 triệu với đầy đủ tính năng tính tổng, chia mẻ, cộng dồn, nhận biết mệnh giá tiền polymer VNĐ từ 10.000 đến 500.000 đ. Đặc biệt là chức năng phát hiện tiền giả, siêu giả có độ chính xác tuyệt đối được Hoàng Quân kiểm định.
 
 - Máy đếm tiền MASU giá từ 3.650.000 đ các model đặc biệt MASU 888, MASU 666, MASU 999, MASU 8899, MASU 2019, MASU 5688.
 - [**Máy đếm tiền Xiudun cao cấp**](https://masu.com.vn/may-dem-tien-xiudun/) giá chỉ 2.250.000 đ những model cao cấp Xiudun 5118, Xiudun 9500, Xiudun 6688W, Xiudun 8000, Xiudun 2012W, Xiudun 2250C
